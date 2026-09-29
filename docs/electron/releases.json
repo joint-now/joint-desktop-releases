@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "environments": {
+    "prod": {
+      "version": "0.1.19",
+      "publishedAt": "2026-09-29T09:49:44Z",
+      "sourceCommit": "d7e6e8df529163f99cafbf36c895307cf9ac6c2e",
+      "releaseUrl": "https://github.com/joint-now/joint-desktop-releases/releases/tag/v0.1.19",
+      "downloads": {
+        "macos": {
+          "arm64": {
+            "name": "Joint-0.1.19-arm64.dmg",
+            "url": "https://github.com/joint-now/joint-desktop-releases/releases/download/v0.1.19/Joint-0.1.19-arm64.dmg"
+          },
+          "x64": {
+            "name": "Joint-0.1.19-x64.dmg",
+            "url": "https://github.com/joint-now/joint-desktop-releases/releases/download/v0.1.19/Joint-0.1.19-x64.dmg"
+          }
+        },
+        "windows": {
+          "x64": {
+            "name": "Joint-0.1.19-x64.exe",
+            "url": "https://github.com/joint-now/joint-desktop-releases/releases/download/v0.1.19/Joint-0.1.19-x64.exe"
+          }
+        }
+      }
+    }
+  },
+  "updatedAt": "2026-09-29T09:49:44Z"
+}

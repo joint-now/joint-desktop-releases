@@ -1,0 +1,11 @@
+version: 0.1.19
+files:
+  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v0.1.19/Joint-0.1.19-arm64.zip
+    sha512: rNXx5B+VYcffqxghZdkO63nsJKoPEsxnhwR/DWrEzhCudHVeNAu2KC/sGSfOjSigbNAEqWxV7h+RtHAePYE49Q==
+    size: 123431770
+  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v0.1.19/Joint-0.1.19-arm64.dmg
+    sha512: ImcyMZB86g780963+TyhRvu0WgXTZJ2ldhCkeH/HBbnxGaVQIZ/D+7vzTu5vpGb7FVqbLjFnQLzOKYpaPW1rQA==
+    size: 124263085
+path: Joint-0.1.19-arm64.zip
+sha512: rNXx5B+VYcffqxghZdkO63nsJKoPEsxnhwR/DWrEzhCudHVeNAu2KC/sGSfOjSigbNAEqWxV7h+RtHAePYE49Q==
+releaseDate: '2026-09-29T09:25:13.826Z'
