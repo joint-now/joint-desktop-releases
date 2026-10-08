@@ -1,8 +1,8 @@
-version: 0.1.19
+version: 1.0.0
 files:
-  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v0.1.19/Joint-0.1.19-x64.exe
-    sha512: +iOnmU+C6mDq5W3NghKSAL5P9O3+++WNa0OPD1+cwUb0FhKU0AggttI+MOA+jYhyfbKAtPIVzDNfot0hMIXKsg==
-    size: 101150488
-path: Joint-0.1.19-x64.exe
-sha512: +iOnmU+C6mDq5W3NghKSAL5P9O3+++WNa0OPD1+cwUb0FhKU0AggttI+MOA+jYhyfbKAtPIVzDNfot0hMIXKsg==
-releaseDate: '2026-09-29T09:22:39.283Z'
+  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v1.0.0/Joint-1.0.0-x64.exe
+    sha512: QNzB/cWb/NNwb4mK55DBhTkR+N8j4RASPLGdKELUtQz+4VRNRR7xzkT774Nz13xVLB/7+ysCrdexym5KeAsUAA==
+    size: 101956760
+path: Joint-1.0.0-x64.exe
+sha512: QNzB/cWb/NNwb4mK55DBhTkR+N8j4RASPLGdKELUtQz+4VRNRR7xzkT774Nz13xVLB/7+ysCrdexym5KeAsUAA==
+releaseDate: '2026-10-08T06:25:55.817Z'
