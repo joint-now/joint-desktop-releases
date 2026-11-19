@@ -1,11 +1,11 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v1.0.4/Joint-1.0.4-x64.zip
-    sha512: JfQdRV19b1Ez2bDezLAzeTELlWMSYofiIuhPrAjNErsYchCdNviDRKcG7qpf3yB29X0qp0RljFIFsmfkeYx1sg==
-    size: 129300471
-  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v1.0.4/Joint-1.0.4-x64.dmg
-    sha512: XbuBlauv8c4HBFU7MKN7ey5scjT1UDxDl+0wiuB4cPW7lpst9tuTk0NwQ0ZDxh51ejtrd0kp8SHyIXAyQv3+tw==
-    size: 129848979
-path: Joint-1.0.4-x64.zip
-sha512: JfQdRV19b1Ez2bDezLAzeTELlWMSYofiIuhPrAjNErsYchCdNviDRKcG7qpf3yB29X0qp0RljFIFsmfkeYx1sg==
-releaseDate: '2026-11-16T04:20:51.750Z'
+  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v1.0.5/Joint-1.0.5-x64.zip
+    sha512: J6CAjhh9+YeJOam+vKdcBJhzt/fEGRPCIi/KVddu1/DfEQUPm/2XxEnIQevYSuPOgxJ0jBTOAwkiBQXSIljW/w==
+    size: 129314757
+  - url: https://github.com/joint-now/joint-desktop-releases/releases/download/v1.0.5/Joint-1.0.5-x64.dmg
+    sha512: Bj2Ud3yyh+y3W8vkUqYTMKT90yahY67FlKrFk7fEsstU8b/Jrdv/pehMf+P+t54vxRTpZtQHTjbazcx5XzHsJA==
+    size: 129846828
+path: Joint-1.0.5-x64.zip
+sha512: J6CAjhh9+YeJOam+vKdcBJhzt/fEGRPCIi/KVddu1/DfEQUPm/2XxEnIQevYSuPOgxJ0jBTOAwkiBQXSIljW/w==
+releaseDate: '2026-11-19T10:25:05.837Z'
